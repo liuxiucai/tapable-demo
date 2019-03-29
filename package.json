@@ -1,0 +1,14 @@
+{
+  "name": "what-tapable",
+  "version": "1.0.0",
+  "description": "tapable demo",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node index.js"
+  },
+  "author": "liuhao_da@163.com",
+  "license": "MIT",
+  "dependencies": {
+    "tapable": "^1.1.1"
+  }
+}
